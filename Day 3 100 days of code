@@ -1,0 +1,5 @@
+food = input("Name a food: ")
+plant = input("Name a plant: ")
+thing = input("What word describes burnt food: ")
+print (" Menu ")
+print (food, "with", thing, plant)
